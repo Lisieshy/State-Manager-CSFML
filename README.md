@@ -1,5 +1,8 @@
 # State Manager
 
+## Attention aux Epitech
+Copiez pas ce code bêtement, sinon le -42 va vous faire mal!
+
 ## Description
 
 Small scene handler made in C for my graphical projects in CSFML at Epitech.\
