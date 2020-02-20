@@ -1,11 +1,11 @@
 ##
-## EPITECH PROJECT, 2019
-## my_runner
+## EPITECH PROJECT, 2020
+## State Manager
 ## File description:
 ## Makefile
 ##
 
-NAME	=	testing
+NAME	=	StateManager
 
 CC	=	gcc
 

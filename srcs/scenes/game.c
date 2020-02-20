@@ -24,8 +24,7 @@ unsigned int update_game(engine_t *en)
 unsigned int event_game(engine_t *en)
 {
     if (en->event.type == sfEvtMouseButtonPressed) {
-        my_printf("Mouse button pressed\n");
-        
+        my_printf("Mouse button pressed in game\n");
     }
     if (en->event.type == sfEvtKeyPressed) {
         if (en->event.key.code == sfKeyEscape) {

@@ -27,7 +27,7 @@ unsigned int update_menu(engine_t *en)
 unsigned int event_menu(engine_t *en)
 {
     if (en->event.type == sfEvtMouseButtonPressed) {
-        my_printf("Mouse button pressed\n");
+        my_printf("Mouse button pressed in the menu\n");
     }
     if (en->event.type == sfEvtKeyPressed) {
         if (en->event.key.code == sfKeyG) {
