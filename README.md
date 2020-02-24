@@ -5,8 +5,8 @@ Copiez pas ce code bêtement, sinon le -42 va vous faire mal!
 
 ## Description
 
-Small scene handler made in C for my graphical projects in CSFML at Epitech.\
-It's not supposed to be perfect, but it does the work!\
+Small scene handler made in C for my graphical projects in CSFML at Epitech.
+It's not supposed to be perfect, but it does the work!
 
 **Warning !**\
 There are still a lot of bugs, you might have to change the code for yourself and get your hands dirty.
