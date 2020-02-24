@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2019
+** EPITECH PROJECT, 2020
 ** STMNGR
 ** File description:
 ** General functions of the state manager
